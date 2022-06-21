@@ -129,7 +129,7 @@ Clone this repository
 
   
 
->git clone https://github.com/SuprajaBhaskar/challenges
+>git clone https://github.com/SuprajaBhaskar/online-challenge
 
   
   
